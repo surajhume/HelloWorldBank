@@ -1,4 +1,4 @@
-# Hello Worl dBank
+# Hello World Bank
 [Access it here](https://helloworldcreditsystem.000webhostapp.com/)  OR [here](http://helloworldbank.rf.gd/)
 
 Preview in pc
