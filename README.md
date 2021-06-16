@@ -1,5 +1,5 @@
 # HelloWorldBank
-[Access it here](https://helloworldcreditsystem.000webhostapp.com/)
+[Access it here](https://helloworldcreditsystem.000webhostapp.com/)  OR [here](http://helloworldbank.rf.gd/)
 
 Preview in pc
 
