@@ -40,6 +40,9 @@ echo "<br>";
     ?>
   </tbody>
 </table>
+                    <div class="card-body" style='text-align: center;'>
+                        <a href="./transfer.php" class="btn btn-primary">Transfer Money</a>
+                    </div>
       <!-- Option 1: Bootstrap Bundle with Popper -->
       <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
